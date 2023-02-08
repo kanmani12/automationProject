@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="0.192">
+    <testcase classname="Blue Link Web Application Chat" name="_2" time="0.041">
+        <system-out>
+            <![CDATA[Given validate the login....................................................passed
+When After user login application selected chat icon........................passed
+Then display chat details of loged in user..................................passed
+Given Message box add button validation.....................................passed
+When User clicks add button.................................................passed
+Then Display people details for adding into chat group......................passed
+And check the selected people is added......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Blue Link Web Application Chat" name="Message box search input box" time="0.024">
+        <system-out>
+            <![CDATA[Given validate the login....................................................passed
+When After user login application selected chat icon........................passed
+Then display chat details of loged in user..................................passed
+Given User Enter in input...................................................passed
+When User Enters the John in the search box.................................passed
+Then it should short out the names in the chatbox list......................passed
+And check the enter name are display in the list............................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Blue Link Web Application Chat" name="Message box search input box 2" time="0.01">
+        <system-out>
+            <![CDATA[Given validate the login....................................................passed
+When After user login application selected chat icon........................passed
+Then display chat details of loged in user..................................passed
+Given User Enter in input...................................................passed
+When User Enters the Gates in the search box................................passed
+Then it should short out the names in the chatbox list......................passed
+And check the enter name are display in the list............................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Blue Link Web Application Chat" name="Message box search input box 3" time="0.004">
+        <system-out>
+            <![CDATA[Given validate the login....................................................passed
+When After user login application selected chat icon........................passed
+Then display chat details of loged in user..................................passed
+Given User Enter in input...................................................passed
+When User Enters the Miller in the search box...............................passed
+Then it should short out the names in the chatbox list......................passed
+And check the enter name are display in the list............................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Blue Link Web Application Chat" name="Message box search input box 4" time="0.008">
+        <system-out>
+            <![CDATA[Given validate the login....................................................passed
+When After user login application selected chat icon........................passed
+Then display chat details of loged in user..................................passed
+Given User Enter in input...................................................passed
+When User Enters the joe in the search box..................................passed
+Then it should short out the names in the chatbox list......................passed
+And check the enter name are display in the list............................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
